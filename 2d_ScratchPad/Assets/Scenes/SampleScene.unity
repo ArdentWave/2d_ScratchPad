@@ -150,6 +150,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   trackingTarget: {fileID: 697481661}
+  xOffset: 4
+  yOffset: 2
+  followSpeed: 5
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
